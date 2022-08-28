@@ -6,6 +6,9 @@ Installation steps
 # Clone the project
 git clone https://github.com/snnyk/rest-api-example.git
 
+# Jump to project folder
+cd rest-api-example
+
 # Install packages
 composer install
 
