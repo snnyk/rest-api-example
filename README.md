@@ -20,3 +20,4 @@ php artisan db:seed
 
 ```
 [Postman Api Doc. is here](https://documenter.getpostman.com/view/12113371/VUxKTUvT)
+
