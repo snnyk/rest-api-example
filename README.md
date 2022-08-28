@@ -4,7 +4,7 @@ Installation steps
 
 ```sh
 # Clone the project
-git clone https://github.com/snnyk/rest-api-example.git . 
+git clone https://github.com/snnyk/rest-api-example.git
 
 # Install packages
 composer install
@@ -20,4 +20,3 @@ php artisan db:seed
 
 ```
 [Postman Api Doc. is here](https://documenter.getpostman.com/view/12113371/VUxKTUvT)
-
